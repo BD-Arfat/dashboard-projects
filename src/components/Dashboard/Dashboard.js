@@ -3,7 +3,7 @@ import DashboardStatsGrid from '../DashboardStatsGrid/DashboardStatsGrid';
 import TransactionChart from '../TransactionChart/TransactionChart';
 import BuyerProfilePieChart from '../BuyerProfilePieChart/BuyerProfilePieChart';
 import PopularProducts from '../PopularProducts/PopularProducts';
-import RecentOrderData from '../recentOrderData/recentOrderData';
+import RecentOrderData from '../RecentOrderData/RecentOrderData';
 
 const Dashboard = () => {
     return (
