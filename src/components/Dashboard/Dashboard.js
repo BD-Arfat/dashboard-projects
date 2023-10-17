@@ -2,8 +2,8 @@ import React from 'react';
 import DashboardStatsGrid from '../DashboardStatsGrid/DashboardStatsGrid';
 import TransactionChart from '../TransactionChart/TransactionChart';
 import BuyerProfilePieChart from '../BuyerProfilePieChart/BuyerProfilePieChart';
-import RecentOrderData from '../RecentOrderData/RecentOrderData';
 import PopularProducts from '../PopularProducts/PopularProducts';
+import RecentOrderData from '../recentOrderData/recentOrderData';
 
 const Dashboard = () => {
     return (
